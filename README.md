@@ -15,14 +15,10 @@
 ## Как использовать
 1. Откройте файл `index.html` в браузере
 2. Или посмотрите через GitHub Pages:  
-   [Ссылка на GitHub Pages](https://sabalakov.github.io/data_structures_unittests/)
+   [Ссылка на GitHub Pages](https://sabalakov.github.io/index.html/)
 
 ## Технологии
 - HTML5
 - CSS3
 - Google Fonts
 
-## Автор
-[Ваше ФИО]  
-Студент [Название университета]  
-Практика в ООО "Фарма Трэйс"
